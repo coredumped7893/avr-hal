@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["UnwrapInfallible","Unwrapping an infallible result into its success value."]]});
